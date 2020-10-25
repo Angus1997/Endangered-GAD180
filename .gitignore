@@ -83,8 +83,28 @@ MyProject6/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 
 MyProject6/Saved/Logs/MyProject6.log
 
+<<<<<<< HEAD
 MyProject6/Content/TopDownBP/Maps/TopDownExampleMap.umap
 
 MyProject6/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
 
 MyProject6/Saved/Config/Windows/Engine.ini
+=======
+MyProject6/Saved/Config/Windows/Engine.ini
+
+MyProject6/Saved/Config/CrashReportClient/UE4CC-Windows-3D3278C14FCC3DB19888289512D951B6/CrashReportClient.ini
+
+MyProject6/Saved/Autosaves/Game/TopDownInteriors/Deco/Black_Auto3.uasset
+
+MyProject6/Content/TopDownInteriors/Deco/Black.uasset
+
+MyProject6/Content/TopDownBP/Maps/TopDownExampleMap.umap
+>>>>>>> main
+
+MyProject6/Saved/Backup/TopDownExampleMap_2020-10-22-14-02-23.umap
+
+MyProject6/Saved/Backup/TopDownExampleMap_2020-10-22-14-12-51.umap
+
+MyProject6/Saved/Backup/TopDownExampleMap_2020-10-22-16-27-37.umap
+
+MyProject6/Saved/Backup/TopDownExampleMap_2020-10-22-16-37-41.umap
